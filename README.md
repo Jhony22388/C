@@ -1,1 +1,1 @@
-This Folder Contains Programs Written in C 
+These are folders that contain programs written in C 
